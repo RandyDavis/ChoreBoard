@@ -1,0 +1,11 @@
+{
+  "name": "choreBoard",
+  "version": "1.0.0",
+  "description": "chore app made with angularJS and firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Randy Davis",
+  "license": "ISC"
+}
