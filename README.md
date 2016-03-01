@@ -1,0 +1,1 @@
+Repo for chore app made with Angular JS and firebase
